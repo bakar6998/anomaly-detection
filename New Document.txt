@@ -1,0 +1,32 @@
+Easy: Build a early warning system able to perform anomaly detection system
+pro: propose investment strategy based on that 
+The wolf of wall street: Make a bot made the investment strategy 
+-------------------------------------------------------------------------
+This project is machine learning project we can do with 
+------------------------------------------------------------------
+problem: Financial market's 
+annoying tendency to crash
+Goal: Detecting crises before most damage has been made; and reducing false alarms
+solution: Early warning system
+-------------------------------------------------------------------
+The tools we have to create this week
+-> Early warning systems/ Risk modeling
+-> Statistical arbitrage(investments)
+-> Transactional frauds
+-> Anti-money laundering
+customer behavior Analytics
+-------------------------------------------------------------------
+Weekly data from bloomberg
+-> Key equity indices
+-> Bond indices(Global, corporate IG/hy, inflation-linked, municiapals mortgages
+-> short/medium/long term interest rates-
+-> key exchange rates
+-> commodities
+-> Leading indicators(Economic, surprise, Blatic Dry index)
+-> VIX(opiton implied volatility)
+-----------------------------------------------------------------------------------------------
+Working as a binary number detection like if the number  is 0 then no anomaly
+if the number is 1 then is anomaly detection system will work
+
+--------------------------------------------------------------------------------------------
+Isolation Forest we are using for datasets
